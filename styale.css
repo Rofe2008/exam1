@@ -273,6 +273,21 @@
     border-radius: 10px;
     width: 250px;
 }
+.flex1sek9
+{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 220px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px;
+}
+.flexbox
+{
+    display: flex;
+    margin-left: 150px;
+    gap: 40px;
+    margin-top: 50px;
+}
 
 
 
@@ -437,6 +452,18 @@
     .imgsek9
     {
         width: 350px;
+    }
+    .flexbox
+    {
+        display: block;
+        display: flex;
+        flex-direction: column;
+        row-gap: 30px;
+        margin-left: 50px;
+    }
+    .chtosek9
+    {
+        margin-left: -100px;
     }
 
 }
