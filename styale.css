@@ -186,6 +186,20 @@
     box-shadow: 0px 0px 10px 0px;
     
 }
+.sektion7
+{
+    margin-top: 100px;
+}
+.obb
+{
+    margin-top: -300px;
+    text-align: center;
+    color: white;
+}
+.ikon1
+{
+    margin-left: 570px;
+}
 
 
 
@@ -291,5 +305,10 @@
         margin-left: -20px;
         text-align: center;
         
+    }
+    .ikon1
+    {
+        margin-left: 150px;
+        position: absolute;
     }
 }
