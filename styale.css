@@ -1,0 +1,88 @@
+*
+{
+    margin: 0;
+    font-family: sans-serif;
+}
+.sektion1
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./uae-4-2048x1367\ 2.png);
+    width: 100%;
+    height: 600px;  
+}
+.flex
+{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -30px;
+    padding: 20px;
+}
+.ktomi
+{
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+.voyti
+{
+    color: white;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+}
+.ikon
+{
+    display: none;
+}
+.zapustite
+{
+   color: white;
+   margin-left: 100px;
+   margin-top: 100px;
+}
+.texnologiya
+{
+    color: white;
+    background-color: rgba(127, 255, 212, 0.402);
+    width: 450px;
+}
+.zayavka
+{
+    background-color: rgb(0, 187, 255);
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+
+@media (max-width:510px) 
+{
+    .ktomi
+    {
+        display: none;
+    }
+    .img11
+    {
+        margin-top: 10px;
+    }
+    .voyti
+    {
+       margin-left: -40px;
+    }
+    .ikon
+    {
+        display: block;
+        color: white;
+        font-size: 25px;
+        position: absolute;
+        margin-left: 370px;
+        margin-top: -10px;
+    }
+    .zapustite
+    {
+        margin-left: 50px;
+    }
+}
