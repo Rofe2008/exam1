@@ -314,7 +314,17 @@
     margin-left: 20px;
     color: white;
 }
-
+.sektion11
+{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 50px;
+    gap: 150px;
+}
+.sek11text
+{
+    margin-top: 100px;
+}
 
 
 
@@ -501,6 +511,16 @@
     .stoimost
     {
         margin-left: -40px;
+    }
+    .sektion11
+    {
+        display: block;
+        margin-left: 30px;
+
+    }
+    .sek11img
+    {
+        width: 400px;
     }
 
 }
