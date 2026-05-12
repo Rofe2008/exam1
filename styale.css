@@ -345,7 +345,11 @@
 {
  display: block;
 }
-
+.sek14img
+{
+    margin-top: 50px;
+    margin-left: 150px;
+}
 
 
 
@@ -550,6 +554,17 @@
     .sek13img
     {
         display: none;
+    }
+    .sek14img
+    {
+        margin-top: 4b0px;
+        margin-left: 50px;
+    }
+    .exportsek14
+    {
+        margin-top: 400px;
+        font-size: 25px;
+        margin-left: -100px;
     }
 
 }
