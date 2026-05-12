@@ -370,6 +370,28 @@
     gap: 40px;
     margin-top: 100px;
 }
+.sekimg18back
+{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 230px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px;
+    margin-left: 700px;
+    margin-top: -250px;
+    position: absolute;
+}
+.buton18sek
+{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-top: -20px;
+    margin-left: 30px;
+    width: 150px;
+}
 
 
 
@@ -602,6 +624,17 @@
         display: flex;
         row-gap: 30px;
         margin-left: 50px;
+    }
+    .sekimg18back
+    {
+        
+        margin-left: 20px;
+        margin-top: 70px;
+    }
+    .lastimg
+    {
+        margin-top: 300px;
+        height: 100px;
     }
 
 }
