@@ -325,6 +325,22 @@
 {
     margin-top: 100px;
 }
+.sek12flex
+{
+   background-color: rgb(255, 255, 255);
+   width: 80%;
+   height: 370px;
+   margin: auto; 
+   border-radius: 10px;
+   box-shadow: 0px 0px 10px 0px;
+   display: flex;
+   gap: 100px;
+   margin-top: 100px;
+}
+.sek12text
+{
+    margin-top: 100px;
+}
 
 
 
@@ -521,6 +537,11 @@
     .sek11img
     {
         width: 400px;
+    }
+    .sek12flex
+    {
+        display: block;
+        width: 350px;
     }
 
 }
